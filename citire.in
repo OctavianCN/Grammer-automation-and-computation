@@ -1,0 +1,12 @@
+5
+SABCD
+2
+a b
+S
+6
+S 1 a A
+S 1 b B
+A 1 a S
+B 1 b C
+C 1 b D
+D 1 b B
